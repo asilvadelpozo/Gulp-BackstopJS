@@ -21,7 +21,7 @@ var backstop_path = './node_modules/backstopjs',
 
 After that; there are several gulp tasks. The main tasks are:
 
-1. **backstopjs-configure**: task to execute *npm install* in the default backstopjs folder to retrieve all its dependencies. This should be run the first time yo synchronize the project or every time *node_modules* folder is deleted
+1. **backstopjs-configure**: task to execute *npm install* in the default backstopjs folder to retrieve all its dependencies. This should be run the first time you synchronize the project or every time *node_modules* folder is deleted
 1. **backstopjs-genConfig**: task to execute *gulp genConfig* in the default backstopjs folder to generate a backstop,json file with a default configuration.
 1. **backstopjs-reference**: task to generate a reference of your project in the default backstopjs (*./bower_components/backstopjs/bitmaps_reference* or *./node_modules/backstopjs/bitmaps_reference*) folder and also on your custom folder.
 1. **backstopjs-test**: task to generate a test of your project in the default backstopjs folder (*./bower_components/backstopjs/bitmaps_test* or *./node_modules/backstopjs/bitmaps_test*) and also on your custom folder.
