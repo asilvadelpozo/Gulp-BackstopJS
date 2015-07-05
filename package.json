@@ -1,0 +1,15 @@
+{
+  "name": "gulp-backstopjs",
+  "version": "1.0.0",
+  "description": "BackstopJS plugin for gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulpplugin",
+    "backstopjs"
+  ],
+  "author": "asilvadelpozo <asilvadelpozo@gmail.com>",
+  "license": "MIT"
+}

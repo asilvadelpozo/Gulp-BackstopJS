@@ -1,0 +1,31 @@
+{
+  "viewports": [
+    {
+      "name": "phone",
+      "width": 320,
+      "height": 480
+    },
+    {
+      "name": "tablet_v",
+      "width": 568,
+      "height": 1024
+    }
+  ],
+  "scenarios": [
+    {
+      "label": "http://getbootstrap.com",
+      "url": "http://getbootstrap.com",
+      "hideSelectors": [],
+      "removeSelectors": [
+        "#carbonads-container"
+      ],
+      "selectors": [
+        "header",
+        "main"
+      ],
+      "readyEvent": null,
+      "delay": 500,
+      "misMatchThreshold" : 0.1
+    }
+  ]
+}
