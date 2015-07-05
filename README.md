@@ -8,7 +8,7 @@ There is a cool Grunt plugin ([grunt-backstop](https://github.com/ddluc/grunt-ba
 
 ## Principle
 
-What this does is basically try to keep synchronized your custom folder (where you want to have you references and test images) with the default bakstopjs folder (under *./bower_components/backstopjs* or *./node_modules/backstopjs*). This is done by simply copying the files in both directions.
+What this does is basically try to keep synchronized your custom folder (where you want to have your references and test images) with the default bakstopjs folder (under *./bower_components/backstopjs* or *./node_modules/backstopjs*). This is done by simply copying the files in both directions.
 
 ## Configuration
 
